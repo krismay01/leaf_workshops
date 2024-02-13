@@ -64,7 +64,7 @@
 
 
             <p><persName cert="high" evidence="internal" full="yes" instant="unknown" type="fictional" xml:space="default"><c>Mrs Dalloway</c></persName> said she would buy the gloves herself.</p>
-            <p><placeName>Big Ben</placeName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
+            <p><placeName><placeName>Big Ben</placeName></placeName> was striking as she stepped out into the street. It was <time cert="high" evidence="internal" instant="unknown" precision="high" unit="cm" xml:space="default">eleven o'clock</time> and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
